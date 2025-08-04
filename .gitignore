@@ -1,5 +1,6 @@
 # CMake folder and files
 build
+doc/cudd.tex
 
 # clangd
 .cache
